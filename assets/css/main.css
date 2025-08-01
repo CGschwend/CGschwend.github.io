@@ -2112,7 +2112,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 7 Free';
+			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
 		}
 
@@ -2129,12 +2129,9 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			
+			font-family: 'Font Awesome 5 Brands';
 		}
 
-		.icon.brands.alt.fa-bluesky:before {
-			content: "\e62a";
-}		}
 
 		.icon.alt:before {
 			background-color: #ffffff;
