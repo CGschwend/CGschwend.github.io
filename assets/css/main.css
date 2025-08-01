@@ -2132,6 +2132,10 @@ input, select, textarea {
 			font-family: 'Font Awesome 7 Brands';
 		}
 
+		.icon.brands.alt.fa-bluesky:before {
+			content: "\e62a";
+}		}
+
 		.icon.alt:before {
 			background-color: #ffffff;
 			border-radius: 100%;
